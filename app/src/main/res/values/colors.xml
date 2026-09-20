@@ -1,0 +1,14 @@
+<resources>
+    <color name="primary">#064E3B</color>
+    <color name="primary_variant">#022C22</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="secondary">#10B981</color>
+    <color name="secondary_variant">#059669</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="background">#F0FDF4</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#064E3B</color>
+    <color name="text_muted">#64748B</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="accent_amber">#F59E0B</color>
+</resources>

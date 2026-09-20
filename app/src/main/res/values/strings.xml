@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OmniConvert</string>
+    <string name="tagline">Smart Unit &amp; Tip Calculator</string>
+    <string name="tab_converter">Unit Converter</string>
+    <string name="tab_tip">Tip &amp; Split</string>
+    <string name="tab_about">About</string>
+</resources>
